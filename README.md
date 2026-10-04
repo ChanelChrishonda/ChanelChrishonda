@@ -2,7 +2,7 @@
 
 I'm a 911 dispatcher, quality assurance reviewer, and certified training officer building a path into **fintech, compliance operations, and cloud security**.
 
-My career has always lived where accuracy matters most. I spent ten years in transfer agent operations at Computershare, processing SEC-regulated transactions for Fortune 500 clients. For the last six years, I've worked in emergency communications, where I make fast, high-stakes decisions, review calls for protocol compliance, and train new dispatchers.
+My career has always lived where accuracy matters most. I spent ten years in transfer agent operations at Computershare, processing SEC-regulated transactions for Fortune 500 clients. For the last seven years, I've worked in emergency communications, where I make fast, high-stakes decisions, review calls for protocol compliance, and train new dispatchers.
 
 Now I'm adding technical skills to that foundation, and I'm documenting the journey here.
 
@@ -13,7 +13,7 @@ Now I'm adding technical skills to that foundation, and I'm documenting the jour
 - **Problem solving:** when something isn't working, I build a tool to fix it
 
 ### What I'm learning
-- Computer science (bachelor's program in progress)
+- Computer Networking at Cisco Networking Academy
 - Cloud and cybersecurity fundamentals
 - Anti-money laundering (AML) and financial compliance
 - Excel automation, data analysis, and Python
